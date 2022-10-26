@@ -1,0 +1,5 @@
+name: exoLobbyParticles
+version: '${project.version}'
+main: lv.exosmium.exolobbyparticles.Main
+api-version: 1.16
+author: Exosmium
